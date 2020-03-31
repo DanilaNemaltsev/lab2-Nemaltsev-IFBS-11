@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584086865 source:c:\users\danil\desktop\lab1\main.cpp
+	<iostream>
+	"Car.h"
+
+1584093891 source:c:\users\danil\desktop\lab1\car.cpp
+	"Car.h"
+
+1584088137 c:\users\danil\desktop\lab1\car.h
+	<cstring>
+	<iostream>
+
+1584093891 source:c:\users\danil\desktop\labs\sem2\lab1\car.cpp
+	"Car.h"
+
+1585645771 c:\users\danil\desktop\labs\sem2\lab1\car.h
+	<cstring>
+	<iostream>
+	<math.h>
+
+1585645786 source:c:\users\danil\desktop\labs\sem2\lab1\main.cpp
+	<iostream>
+	"Car.h"
+
